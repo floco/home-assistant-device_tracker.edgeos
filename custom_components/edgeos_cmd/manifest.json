@@ -1,0 +1,8 @@
+{
+    "domain": "edgeos_cmd",
+    "name": "Integration to Ubiquity EdgeOS Routers via command line",
+    "documentation": "https://github.com/floco/home-assistant-device_tracker.edgeos/blob/master/README.md",
+    "dependencies": [],
+    "codeowners": ["@del78"],
+    "requirements": ["pexpect==4.6.0"]
+  }
