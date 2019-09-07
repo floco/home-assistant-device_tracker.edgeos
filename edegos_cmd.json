@@ -1,0 +1,13 @@
+{
+    "edgeos_cmd": {
+        "version": "1.0.0",
+        "local_location": "/custom_components/edgeos/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/floco/home-assistant-device_tracker.edgeos/master/custom_components/edgeos_cmd/__init__.py",
+        "visit_repo": "https://raw.githubusercontent.com/floco/home-assistant-device_tracker.edgeos",
+        "changelog": "https://raw.githubusercontent.com/floco/home-assistant-device_tracker.edgeos/releases/latest",
+        "resources": [
+            "https://raw.githubusercontent.com/floco/home-assistant-device_tracker.edgeos/master/custom_components/edgeos_cmd/device_tracker.py",
+            "https://raw.githubusercontent.com/floco/home-assistant-device_tracker.edgeos/master/custom_components/edgeos_cmd/manifest.json"
+        ]
+    }
+}
